@@ -1,5 +1,6 @@
 # Coding-1 Final Project by Yufei Ma
 Hello! Welcome to my final project of coding one. My project is a based on GLSL and JavaScript. It is called "Chaos".
+You can see it on mimic: https://mimicproject.com/code/01217a80-1c8c-0b13-8b75-e593341fbcee
 
 ## Contents
 * [Introduction](#40)
